@@ -1,4 +1,4 @@
-# SpamFilterProject# 🚫 SpamFilterProject
+# 🚫 SpamFilterProject
 
 Un filtre anti-spam simple et interactif qui vérifie si un message contient des éléments suspects. Ce projet utilise **HTML**, **CSS** et **JavaScript** pour offrir une interface conviviale permettant de détecter les messages potentiellement indésirables.
 
